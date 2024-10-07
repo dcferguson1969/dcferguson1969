@@ -2,7 +2,7 @@
  👀 I’m interested in ... securing a new role in data analytics<br><br>
  🌱 I’m *always* learning ... but currently advancing my Python / R / SQL skills<br><br>
  💞️ I’m looking to collaborate on ... market and opportunity modelling<br><br>
- 📫 How to reach me ... message or email (dcferguson1969@gmail.com)<br><br>
+ 📫 How to reach me ... email (dcferguson1969@gmail.com)<br><br>
  😄 Pronouns: ... he / him<br><br>
  ⚡ Fun fact: ... 48% of statistics are made up on the spot 😜<br><br>
 <!---
